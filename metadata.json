@@ -1,0 +1,6 @@
+{
+  "name": "Scrcpy USB Mirror",
+  "description": "High-performance low-latency screen and audio mirroring tool to PC via USB based on scrcpy with audio streaming support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
